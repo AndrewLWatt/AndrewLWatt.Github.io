@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: I am a student a richland high school interested in Technology and Cybersecurity and Music and Networking.
+description: I am a student at richland high school interested in Technology, Cybersecurity, Music, and Networking. Some classes I have taken intrest in is networking, Language Arts, and AVID.
 ---
