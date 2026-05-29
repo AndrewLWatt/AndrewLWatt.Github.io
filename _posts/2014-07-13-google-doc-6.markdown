@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 
+description: https://docs.google.com/document/d/1_kISN8ULIh3Hxzff9d55ng4m-YGHVaK0SBKeZBizj2I/edit?usp=sharing
 ---
